@@ -10,6 +10,8 @@ public interface SubjectService {
 	List<Subject> getDS();
 
 	void saveSubject(Subject subject);
+	
+
 
 //	void deleteStudent(String id);
 //	Student getById (String id);
